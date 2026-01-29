@@ -18,7 +18,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/transybao1393/pinboard-releases/releases/download/v2/Pinboard-2.0.dmg"
+                url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v2/Pinboard-2.0.dmg"
                 sparkle:edSignature="rPvTOK/zn43fZ/PJxIbymxIV/BoEa6bWaHz26EriDCi5be9xxUF7Poh8qjzu4bRLScD8Hnx1topNl80h7pieBw=="
                 length="3593014"
                 type="application/octet-stream"/>
