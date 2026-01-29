@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Pinboard Updates</title>
+        <link>https://github.com/transybao1393/pinboard-releases</link>
+        <description>Pinboard application updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 2.0</title>
+            <pubDate>Thu, 30 Jan 2026 00:40:00 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <ul>
+                    <li>Added automatic updates via Sparkle</li>
+                    <li>Check for Updates menu item</li>
+                    <li>Updates section in Settings</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/transybao1393/pinboard-releases/releases/download/v2/Pinboard-2.0.dmg"
+                sparkle:edSignature="rPvTOK/zn43fZ/PJxIbymxIV/BoEa6bWaHz26EriDCi5be9xxUF7Poh8qjzu4bRLScD8Hnx1topNl80h7pieBw=="
+                length="3593014"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
