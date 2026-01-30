@@ -6,6 +6,24 @@
         <description>Pinboard application updates</description>
         <language>en</language>
         <item>
+            <title>Version 3.0</title>
+            <pubDate>Thu, 30 Jan 2026 10:35:00 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <ul>
+                    <li>New app icon</li>
+                    <li>Version display in main UI</li>
+                    <li>Update available indicator</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v3/Pinboard-3.0.dmg"
+                sparkle:edSignature="2TSMZ5XFbCCUiXiQlMHyqrLLQTq4XXBIICa5vZf096yMRy9Gvdx7MQpEy36AgOY17biNFF0slxAgw8+i72I0Cg=="
+                length="4006013"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 2.0</title>
             <pubDate>Thu, 30 Jan 2026 00:40:00 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
