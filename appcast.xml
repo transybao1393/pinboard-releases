@@ -6,6 +6,45 @@
         <description>Pinboard application updates</description>
         <language>en</language>
         <item>
+            <title>Version 5.0</title>
+            <pubDate>Mon, 03 Feb 2026 12:00:00 +0700</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's New</h3>
+                <ul>
+                    <li><strong>Stay Private During Screen Sharing</strong> - Pinboard now hides itself when you take screenshots, record your screen, or share in video calls. Your pinned files and clipboard stay private.</li>
+                    <li><strong>Better Update Reminders</strong> - You'll now get gentle reminders when a new version is available, so you never miss important updates.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v5/Pinboard-5.0.dmg"
+                sparkle:edSignature="PLACEHOLDER_SIGNATURE_V5"
+                length="0"
+                type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 4.0</title>
+            <pubDate>Sun, 02 Feb 2026 12:00:00 +0700</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>What's New</h3>
+                <ul>
+                    <li><strong>Quick Keyboard Shortcuts</strong> - Press Option+Cmd+S to show or hide Pinboard instantly. Use Ctrl+C to save clipboard content to a slot, and Ctrl+V followed by a number (1-9) to paste it back.</li>
+                    <li><strong>Auto-Capture Screenshots</strong> - Pinboard can automatically grab your screenshots as you take them. Just enable it in settings.</li>
+                    <li><strong>Improved File Previews</strong> - Click any file to see a bigger preview. Images show in full quality, and you can open files directly in Finder.</li>
+                    <li><strong>Smarter Clipboard</strong> - Pinboard detects what you've copied (links, emails, code, etc.) and shows helpful labels.</li>
+                    <li><strong>Faster Performance</strong> - The app runs smoother and uses less memory.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v4/Pinboard-4.0.dmg"
+                sparkle:edSignature="PLACEHOLDER_SIGNATURE_V4"
+                length="0"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 3.0</title>
             <pubDate>Thu, 30 Jan 2026 10:35:00 +0700</pubDate>
             <sparkle:version>3</sparkle:version>
