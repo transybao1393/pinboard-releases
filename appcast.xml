@@ -35,8 +35,8 @@
             ]]></description>
             <enclosure
                 url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v5/Pinboard-5.0.dmg"
-                sparkle:edSignature="PLACEHOLDER_SIGNATURE_V5"
-                length="0"
+                sparkle:edSignature="x4hbjqBD8aq8b2UkS4Hnv4KCr/YCC4n+qFsWG5Z7itOtysEt22dTdETugcCM8HAUZ1xnLeUXdeXrOF54+mqVBQ=="
+                length="3916394"
                 type="application/octet-stream"/>
         </item>
         <item>
@@ -56,8 +56,8 @@
             ]]></description>
             <enclosure
                 url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v4/Pinboard-4.0.dmg"
-                sparkle:edSignature="PLACEHOLDER_SIGNATURE_V4"
-                length="0"
+                sparkle:edSignature="Bbj4G25MrUmKyiAyi5Y8Gwy5ZPZjiehj84cnrvzbDXQdGzXJrgBo48ll1nEMbn1bvRss0UMb2cKPtom94VXpDQ=="
+                length="3888814"
                 type="application/octet-stream"/>
         </item>
         <item>
