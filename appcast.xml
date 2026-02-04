@@ -6,6 +6,22 @@
         <description>Pinboard application updates</description>
         <language>en</language>
         <item>
+            <title>Version 6.5</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 04 Feb 2026 23:01:53 +0700</pubDate>
+            <sparkle:version>6.5</sparkle:version>
+            <sparkle:shortVersionString>6.5</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/transybao1393/pinboard-releases/releases/download/v6.5/Pinboard-6.5.zip"
+                sparkle:edSignature="ZmkHIgRTjKvtRSfwGq2FAoAxowhE4Mn03zTLG9kUC5dO2+2cf9pDRqiJTMEWLXN02yKyxQ4I21Pv9l8poRI2DA=="
+                length="3579234"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 5.0</title>
             <pubDate>Mon, 03 Feb 2026 12:00:00 +0700</pubDate>
             <sparkle:version>5</sparkle:version>
