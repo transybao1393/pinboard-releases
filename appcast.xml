@@ -16,7 +16,7 @@
             <sparkle:version>6.5</sparkle:version>
             <sparkle:shortVersionString>6.5</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/transybao1393/pinboard-releases/releases/download/v6.5/Pinboard-6.5.zip"
+                url="https://raw.githubusercontent.com/transybao1393/pinboard-releases/main/release/v6/Pinboard-6.5.dmg"
                 sparkle:edSignature="U6kJlWYt6WVoaSIKdqHhBAFcQuJoViTwS2GFQJOEczDJSHqo3Sgw2XttGDHC7Idn7btaJpgzfopHZ54Cn+B1CQ=="
                 length="3922389"
                 type="application/octet-stream"/>
